@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/Event-Management-System/static/js/main.7b277a0e.js",
+    "static/media/booking.jpg": "/Event-Management-System/static/media/booking.b2e08c52434b5aad034d.jpg",
+    "static/media/background.png": "/Event-Management-System/static/media/background.bedac5f19175e3bcb28a.png",
+    "static/media/event.png": "/Event-Management-System/static/media/event.e88db71f3ec965cff848.png",
+    "static/media/wedding_hall.jpg": "/Event-Management-System/static/media/wedding_hall.fff298ee4dfd3e20d004.jpg",
+    "index.html": "/Event-Management-System/index.html",
+    "main.7b277a0e.js.map": "/Event-Management-System/static/js/main.7b277a0e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7b277a0e.js"
+  ]
+}
