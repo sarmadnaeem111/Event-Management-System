@@ -5,7 +5,7 @@ import CssBaseline from '@mui/material/CssBaseline';
 
 // Components
 import Navbar from './components/Navbar';
-import Home from './pages/Home';
+import Home from './pages/Home.js';
 import AdminDashboard from './pages/admin/Dashboard';
 import ServiceProviderDashboard from './pages/serviceProvider/Dashboard';
 import CustomerDashboard from './pages/customer/Dashboard';
